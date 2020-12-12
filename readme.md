@@ -24,3 +24,11 @@ cc-moolahgo/cc-moolahgo.sql
 
 File For pre-populated value is at model
 cc-moolahgo/microservices/application/models/user/User_process.php 
+
+
+File For AJAX Connection
+cc-moolahgo/assets/js/connections.js
+
+
+File For CSS
+cc-moolahgo/assets/css/styles.js
