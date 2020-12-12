@@ -1,0 +1,40 @@
+#azindex {
+float: left;
+margin: 0;
+padding: 15px 5px;
+width: 100%;
+}
+* html #azindex {
+padding: 5px 5px 10px 5px;
+width: 100%;
+}
+#index {
+font: inherit;
+margin: 0;
+padding: 0;
+}
+#index li {
+float: left;
+height: 2em;
+list-style-type: none;
+padding: 0;
+width: 2.92em;
+}
+* html #index li {
+margin: 0.2em 0.2em;
+}
+#index a:link, #index a:visited {
+background: #fff;
+color: navy;
+display: block;
+padding: 0;
+text-align: center;
+text-decoration: none;
+width: auto;
+font-size: 16px;
+}
+#index a:hover {
+background: #93D1E4;
+color: #fff;
+text-decoration: underline;
+}

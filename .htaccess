@@ -1,0 +1,15 @@
+<FilesMatch ".(eot|ttf|otf|woff)">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^([^(\.|\/)]+)$ $1.html [NC,L]
+	RewriteRule ^([^(\.|\/)]+)\/([^(\.|\/)]+)$ $1.html [NC,L]
+</IfModule>
+
+<IfModule mod_env.c>
+    SetEnv CI_ENV development
+</IfModule>
