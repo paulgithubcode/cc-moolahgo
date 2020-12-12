@@ -3,6 +3,8 @@ USAGE
 URL for test:
 http://localhost/cc-moolahgo/registration
 http://localhost/cc-moolahgo/registration/[referral_code]
+http://134.209.111.153/cc-moolahgo/registration
+http://134.209.111.153/cc-moolahgo/registration/[referral_code]
 
 For pre-populated referral_code please use = MKAWH0
 
@@ -19,7 +21,7 @@ cc-moolahgo/microservices/application/controllers/Users.php
 -endpoint (function process)
 
 SQL for microservices
-cc-moolahgo/cc-moolahgo.sql
+cc-moolahgo/	.sql
 
 
 File For pre-populated value is at model

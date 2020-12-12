@@ -1,5 +1,5 @@
 var pathparts = location.pathname.split('/');
-if (location.host == 'localhost') {
+if (location.host == 'localhost' || location.host == '134.209.111.153') {
     var url = location.origin+'/'+pathparts[1].trim('/')+'/'; // http://localhost/myproject/
 }else{
     var url = location.origin+'/'; // http://google.com

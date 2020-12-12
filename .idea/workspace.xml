@@ -1315,6 +1315,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/microservices/user_guide/tutorial/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/microservices/user_guide/tutorial/news_section.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/microservices/user_guide/tutorial/static_pages.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/connection.js" afterPath="$PROJECT_DIR$/assets/js/connection.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1340,15 +1341,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connection.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="connection.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/connection.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1607787401017" expanded="true" signature="1438:1454" ph="..." />
-                <marker date="1607787401017" expanded="true" signature="3574:3590" ph="..." />
+                <marker date="1607795888363" expanded="true" signature="1476:1492" ph="..." />
+                <marker date="1607795888363" expanded="true" signature="3612:3628" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservices/application/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1393,7 +1404,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservices/application/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="237">
@@ -1424,18 +1435,6 @@
             <state relative-caret-position="960">
               <caret line="60" column="41" lean-forward="false" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/global.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -1498,8 +1497,8 @@
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/microservices/application/controllers/Users.php" />
         <option value="$PROJECT_DIR$/registration.html" />
-        <option value="$PROJECT_DIR$/assets/js/connection.js" />
         <option value="$PROJECT_DIR$/microservices/application/models/user/User_process.php" />
+        <option value="$PROJECT_DIR$/assets/js/connection.js" />
       </list>
     </option>
   </component>
@@ -1544,55 +1543,20 @@
             <path>
               <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="data" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="DataTables" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="DataTables" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="media" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="microservices" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="microservices" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cc-moolahgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cc-moolahgo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="microservices" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -1644,17 +1608,18 @@
       <workItem from="1607706067510" duration="358000" />
       <workItem from="1607742854039" duration="5457000" />
       <workItem from="1607756923132" duration="10338000" />
-      <workItem from="1607777815037" duration="10190000" />
+      <workItem from="1607777815037" duration="11367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51673000" />
+    <option name="totallyTimeSpent" value="52850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13469985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13469985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1687,19 +1652,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/microservices/application/models/user/User_process.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="65" column="62" lean-forward="false" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
-          <folding>
-            <marker date="1607789645198" expanded="true" signature="627:664" ph="SELECT useri... user" />
-            <marker date="1607789645198" expanded="true" signature="1171:1207" ph="SELECT useri... user" />
-            <marker date="1607789645198" expanded="true" signature="1816:1837" ph="SELECT code user" />
-            <marker date="1607789645198" expanded="true" signature="2280:2500" ph="SELECT `user... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservices/application/config/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -1757,8 +1709,8 @@
         <state relative-caret-position="976">
           <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
-            <marker date="1607787401017" expanded="true" signature="1438:1454" ph="..." />
-            <marker date="1607787401017" expanded="true" signature="3574:3590" ph="..." />
+            <marker date="1607795888363" expanded="true" signature="1476:1492" ph="..." />
+            <marker date="1607795888363" expanded="true" signature="3612:3628" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1852,8 +1804,8 @@
         <state relative-caret-position="1072">
           <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
           <folding>
-            <marker date="1607787401017" expanded="true" signature="1438:1454" ph="..." />
-            <marker date="1607787401017" expanded="true" signature="3574:3590" ph="..." />
+            <marker date="1607795888363" expanded="true" signature="1476:1492" ph="..." />
+            <marker date="1607795888363" expanded="true" signature="3612:3628" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1926,8 +1878,8 @@
         <state relative-caret-position="1072">
           <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
           <folding>
-            <marker date="1607787401017" expanded="true" signature="1438:1454" ph="..." />
-            <marker date="1607787401017" expanded="true" signature="3574:3590" ph="..." />
+            <marker date="1607795888363" expanded="true" signature="1476:1492" ph="..." />
+            <marker date="1607795888363" expanded="true" signature="3612:3628" ph="..." />
           </folding>
         </state>
       </provider>
@@ -2102,14 +2054,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservices/application/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="80" column="24" lean-forward="false" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservices/application/controllers/Users.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -2149,9 +2093,25 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1607787401017" expanded="true" signature="1438:1454" ph="..." />
-            <marker date="1607787401017" expanded="true" signature="3574:3590" ph="..." />
+            <marker date="1607795888363" expanded="true" signature="1476:1492" ph="..." />
+            <marker date="1607795888363" expanded="true" signature="3612:3628" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservices/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservices/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="80" column="24" lean-forward="false" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
